@@ -2,6 +2,16 @@ package com.naironics.arraylist;
 
 import java.util.ArrayList;
 
+/* Program to demonstrate the usage of ArrayList in Java.
+ * 
+ * Methods of ArrayList 
+ * ====================
+ * 	1. add()
+ * 	2. remove()
+ *  3. size()
+ *  4. get()
+ */	
+
 
 public class AList {
 	
