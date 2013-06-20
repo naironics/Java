@@ -39,6 +39,7 @@ public class HibernateDriver {
 		session.getTransaction().commit();
 
 		session.close();
+		sessionFactory.close();
 	}
 
 }
